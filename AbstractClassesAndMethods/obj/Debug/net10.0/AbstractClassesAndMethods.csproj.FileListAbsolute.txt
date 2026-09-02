@@ -1,0 +1,15 @@
+/workspaces/318-assignment--2--22017900/AbstractClassesAndMethods/bin/Debug/net10.0/AbstractClassesAndMethods
+/workspaces/318-assignment--2--22017900/AbstractClassesAndMethods/bin/Debug/net10.0/AbstractClassesAndMethods.deps.json
+/workspaces/318-assignment--2--22017900/AbstractClassesAndMethods/bin/Debug/net10.0/AbstractClassesAndMethods.runtimeconfig.json
+/workspaces/318-assignment--2--22017900/AbstractClassesAndMethods/bin/Debug/net10.0/AbstractClassesAndMethods.dll
+/workspaces/318-assignment--2--22017900/AbstractClassesAndMethods/bin/Debug/net10.0/AbstractClassesAndMethods.pdb
+/workspaces/318-assignment--2--22017900/AbstractClassesAndMethods/obj/Debug/net10.0/AbstractClassesAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/318-assignment--2--22017900/AbstractClassesAndMethods/obj/Debug/net10.0/AbstractClassesAndMethods.AssemblyInfoInputs.cache
+/workspaces/318-assignment--2--22017900/AbstractClassesAndMethods/obj/Debug/net10.0/AbstractClassesAndMethods.AssemblyInfo.cs
+/workspaces/318-assignment--2--22017900/AbstractClassesAndMethods/obj/Debug/net10.0/AbstractClassesAndMethods.csproj.CoreCompileInputs.cache
+/workspaces/318-assignment--2--22017900/AbstractClassesAndMethods/obj/Debug/net10.0/AbstractClassesAndMethods.sourcelink.json
+/workspaces/318-assignment--2--22017900/AbstractClassesAndMethods/obj/Debug/net10.0/AbstractClassesAndMethods.dll
+/workspaces/318-assignment--2--22017900/AbstractClassesAndMethods/obj/Debug/net10.0/refint/AbstractClassesAndMethods.dll
+/workspaces/318-assignment--2--22017900/AbstractClassesAndMethods/obj/Debug/net10.0/AbstractClassesAndMethods.pdb
+/workspaces/318-assignment--2--22017900/AbstractClassesAndMethods/obj/Debug/net10.0/AbstractClassesAndMethods.genruntimeconfig.cache
+/workspaces/318-assignment--2--22017900/AbstractClassesAndMethods/obj/Debug/net10.0/ref/AbstractClassesAndMethods.dll
