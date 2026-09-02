@@ -1,0 +1,5 @@
+<Solution>
+	<Project Path="InheritanceAndOverriding/InheritanceAndOverriding.csproj" />
+	<Project Path="AbstractClassesAndMethods/AbstractClassesAndMethods.csproj" />
+	<Project Path="Interfaces/Interfaces.csproj" />
+</Solution>
