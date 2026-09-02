@@ -1,0 +1,15 @@
+/workspaces/318-assignment--2--22017900/Interfaces/bin/Debug/net10.0/Interfaces
+/workspaces/318-assignment--2--22017900/Interfaces/bin/Debug/net10.0/Interfaces.deps.json
+/workspaces/318-assignment--2--22017900/Interfaces/bin/Debug/net10.0/Interfaces.runtimeconfig.json
+/workspaces/318-assignment--2--22017900/Interfaces/bin/Debug/net10.0/Interfaces.dll
+/workspaces/318-assignment--2--22017900/Interfaces/bin/Debug/net10.0/Interfaces.pdb
+/workspaces/318-assignment--2--22017900/Interfaces/obj/Debug/net10.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/318-assignment--2--22017900/Interfaces/obj/Debug/net10.0/Interfaces.AssemblyInfoInputs.cache
+/workspaces/318-assignment--2--22017900/Interfaces/obj/Debug/net10.0/Interfaces.AssemblyInfo.cs
+/workspaces/318-assignment--2--22017900/Interfaces/obj/Debug/net10.0/Interfaces.csproj.CoreCompileInputs.cache
+/workspaces/318-assignment--2--22017900/Interfaces/obj/Debug/net10.0/Interfaces.sourcelink.json
+/workspaces/318-assignment--2--22017900/Interfaces/obj/Debug/net10.0/Interfaces.dll
+/workspaces/318-assignment--2--22017900/Interfaces/obj/Debug/net10.0/refint/Interfaces.dll
+/workspaces/318-assignment--2--22017900/Interfaces/obj/Debug/net10.0/Interfaces.pdb
+/workspaces/318-assignment--2--22017900/Interfaces/obj/Debug/net10.0/Interfaces.genruntimeconfig.cache
+/workspaces/318-assignment--2--22017900/Interfaces/obj/Debug/net10.0/ref/Interfaces.dll
